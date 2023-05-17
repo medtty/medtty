@@ -1,10 +1,24 @@
-## Hi there 👋, I'm Med
-Software Developer | Security Researcher | BugB Hunter</div> 
+### Hey folks! 👋, I'm Med
 
-![](https://komarev.com/ghpvc/?username=your-github-medtty&style=flat-square)
+<!--
+**medtty/medtty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Currently working on my [Blog](https://medtty.xyz)
+Here are some ideas to get you started:
 
-----
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-![Medtty's GitHub stats](https://github-readme-stats.vercel.app/api?username=medtty&show_icons=true&theme=transparent)
+Software Developer | Security Researcher | BugB Hunter
+
+Currently working on my [Blog]
+
+![](https://komarev.com/ghpvc/?username=your-github-medtty&style=for-the-badge)
+
+[Blog]: https://medtty.xyz

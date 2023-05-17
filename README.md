@@ -1,4 +1,4 @@
-### Hey folks! 👋, I'm Med
+### Hey There! 👋, I'm Med
 
 <!--
 **medtty/medtty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Software Developer | Security Researcher | BugB Hunter
 
-Currently working on my [Blog]
+I'm currently working on my [Blog]
 
 ![](https://komarev.com/ghpvc/?username=your-github-medtty&style=for-the-badge)
 

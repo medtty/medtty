@@ -1,6 +1,6 @@
 ### Hey There! 👋, I'm Med
 
-<img src="gif.gif" width="150"/>
+<img src="gif.gif" width="150" />
 
 Software Developer | Security Researcher 
 

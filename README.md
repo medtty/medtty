@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software Developer | Security Researcher | BugB Hunter
+Software Developer | Security Researcher 
 
 I'm currently working on my [Blog]
 

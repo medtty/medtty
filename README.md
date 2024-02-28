@@ -10,7 +10,7 @@ I'm currently working on my [Blog]
 
 ![](https://komarev.com/ghpvc/?username=your-github-medtty&style=for-the-badge)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medtty&show_icons=true)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medtty&show_icons=true)-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

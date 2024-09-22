@@ -1,4 +1,4 @@
-[space]: https://medtty.xyz
+[space]: https://medtty.vercel.app/
 [nuist]: https://nuist.edu.cn
 
 

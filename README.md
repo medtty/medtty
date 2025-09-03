@@ -8,8 +8,6 @@
 
 Software Developer | Security Researcher
 
-I’m currently working towards degree in CS at **Nanjing University of Information Science And Technology** [NUIST]
-
 I'm currently working on my [space]
 
 ![](https://komarev.com/ghpvc/?username=your-github-medtty&style=for-the-badge)

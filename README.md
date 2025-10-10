@@ -15,6 +15,7 @@ Mechatronics Engineer | Aerospace Enthusiast  | Maker | Security Researcher | So
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=medtty&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=medtty&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
+![](https://github-readme-stats.vercel.app/api?username=medtty&show_icons=true&theme=github_dark&hide_border=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=medtty&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=medtty&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
